@@ -1,1 +1,1 @@
-# IPL-2026-Data-Analysis
+SQL Quick revision concepts in details 
