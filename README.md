@@ -1,2 +1,2 @@
-SQL Quick revision concepts in details 
+SQL Quick revision concept in details 
 
