@@ -1,4 +1,4 @@
-SQL Interview Preparation - Most Important Questions (Highlighted)
+SQL Interview Preparation - Most Important Questions
 
 ⭐ QUESTION 1
 What is SQL?
